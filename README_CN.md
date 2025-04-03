@@ -1,4 +1,4 @@
-# 骤雨重山图床
+# 克喵の图床
 
 > 在现代互联网环境中，快速稳定的图片访问是提升用户体验的重要因素之一。本文将介绍如何利用Cloudflare Pages部署稳定的无限图床Imgur，实现图片上传和访问，并进一步通过WordPress的WP.COM全球图片缓存进行加速，提高图片加载速度。可用于免费图片托管解决方案，Flickr 等替代品。
 
@@ -16,7 +16,7 @@
 
 ### 页面
 
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721639712.png)
+![克喵の图床](https://uxiaohan.github.io/v2/2024/07/1721639712.png)
 
 [点击体验Demo](https://wp-cdn.4ce.cn/)
 
@@ -30,9 +30,9 @@
 
 **图片步骤**
 
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640641.png)
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640649.png)
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640656.png)
+![克喵の图床](https://uxiaohan.github.io/v2/2024/07/1721640641.png)
+![克喵の图床](https://uxiaohan.github.io/v2/2024/07/1721640649.png)
+![克喵の图床](https://uxiaohan.github.io/v2/2024/07/1721640656.png)
 
 ### 特点
 

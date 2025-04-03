@@ -1,4 +1,4 @@
-# 骤雨重山图床
+# 克喵の图床
 
 English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_CN.md)
 
